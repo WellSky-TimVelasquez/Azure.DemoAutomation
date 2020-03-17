@@ -1,0 +1,24 @@
+{
+  //Urls
+  "GoogleUrl": "https://www.google.com",
+  "AmazonUrl": "https://www.amazon.com",
+
+  //BrowserName
+  "BrowserType": "Chrome",
+
+  //Wait time
+  "ImplicitWaitTimeout": "10",
+  "PageLoadTimeout": "60",
+  "ScriptTimeout": "60",
+
+  //Represents explicit wait time
+  "SmallWait": "30",
+  "MediumWait": "120",
+  "LargeWait": "300",
+
+  //Log file details
+  //"logFolderPath": "C:\Documents", //This value is to save the log file in given location
+  "logLevel": "Info",
+  "logType": "file",
+  "DefaultDownloadFolder": "C:\\Downloads\\"
+}
